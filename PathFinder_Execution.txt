@@ -1,0 +1,96 @@
+DIG hello world
+DIG hp
+DIG spectre
+ASCEND
+hp
+DIG 360
+ASCEND
+hp
+ASCEND
+hello world
+DESCEND dell
+Sorry! there is no such node.
+DIG Dell
+ASCEND
+hello world
+ASCEND
+Surface
+DIG
+ASCEND
+Surface
+DIG sandbourne
+DIG 44
+ASCEND
+sandbourne
+DIG Crescent
+ASCEND
+sandbourne
+DIG M2J3A6
+ASCEND
+sandbourne
+DESCEND crescent
+Sorry! there is no such node.
+DESCEND Crescent
+Crescent
+DIG TT
+ASCEND
+Crescent
+DIG sofa
+ASCEND
+Crescent
+DIG diningTable
+ASCEND
+Crescent
+ASCEND
+sandbourne
+ASCEND
+Surface
+DIG Province
+DIG Ontario
+DIG Toronto
+ASCEND
+Ontario
+DIG North York
+ASCEND
+Ontario
+ASCEND
+Province
+DIG Quebec
+Dig Montreal
+BAD INPUT
+DIG Montreal
+ASCEND
+Quebec
+ASCEND
+Province
+DIG Alberta
+ASCEND
+Province
+ASCEND
+Surface
+LOOK
+Path: 2 - hello world
+Path: 0 -  
+Path: 3 - sandbourne
+Path: 3 - Province
+LOOKBACK
+You are already on the Root Node.
+ASCEND
+You are on the Root Node "Surface".
+DESCEND Sandbourne
+Sorry! there is no such node.
+DESCEND sandbourne
+sandbourne
+LOOK
+Path: 0 - 44
+Path: 3 - Crescent
+Path: 0 - M2J3A6
+DESCEND Crescent
+Crescent
+LOOKBACK
+sandbourne
+LOOK
+Path: 0 - TT
+Path: 0 - sofa
+Path: 0 - diningTable
+QUIT
